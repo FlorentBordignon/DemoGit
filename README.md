@@ -1,2 +1,2 @@
 # DemoGit
-a git demo
+a git demo written in english
